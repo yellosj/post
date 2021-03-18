@@ -15,9 +15,6 @@ class Board(models.Model):
     # Board_views = models.PositiveIntegerField(default=0)
 
 
-# like = models.
-# bookmark = models.
-
 # class Comment(models.Model):
 #     board_id = models.ForeignKey(Board, on_delete=models.CASCADE)
 #     author = models.CharField(max_length=10, blank=False)
